@@ -1,0 +1,12 @@
+ .bg-color{
+    background-color: #000836;
+}
+ .bg-img{
+    background-image: url(../images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-position: 0 , 30%;
+    background-size: cover;
+}
+.bg-img2{
+    background-color: #010836;
+}
